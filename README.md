@@ -13,8 +13,7 @@ RAG | LoRA/QLoRA | Scikit-learn | SQL
 Chemical Engineering + AI — I bridge the gap 
 between industrial processes and intelligent systems
 
-🌎 Open to remote work globally
-📫 LinkedIn: https://www.linkedin.com/in/luis-fernando-camargo-nieto083197/
+📫 Mail: lcamargon@uni.pe
 
 🚀 Currently building:
 AI solutions for industrial process optimization
