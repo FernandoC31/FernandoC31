@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**FernandoC31/FernandoC31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Fernando Camargo
+🧪 Chemical Engineer + AI Engineer | Lima, Peru
+🤖 Passionate about AI applied to science, 
+   industry and drug discovery
+   
+🔧 Tech Stack:
+Python | PyTorch | HuggingFace | LangChain | 
+RAG | LoRA/QLoRA | Scikit-learn | SQL
 
-Here are some ideas to get you started:
+🧬 Unique background:
+Chemical Engineering + AI — I bridge the gap 
+between industrial processes and intelligent systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌎 Open to remote work globally
+📫 LinkedIn: https://www.linkedin.com/in/luis-fernando-camargo-nieto083197/
+
+🚀 Currently building:
+AI solutions for industrial process optimization
+and computational chemistry
